@@ -1,4 +1,4 @@
-Overview
+Web Scraping
 
 This project extracts and analyzes stock data for Tesla (TSLA) and GameStop (GME). 
 The goal is to practice data extraction, data manipulation, and visualization skills using real-world financial data. 
