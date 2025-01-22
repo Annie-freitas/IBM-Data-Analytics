@@ -1,4 +1,5 @@
 Overview
+
 This project extracts and analyzes stock data for Tesla (TSLA) and GameStop (GME). 
 The goal is to practice data extraction, data manipulation, and visualization skills using real-world financial data. 
 This project includes the extraction of stock data and revenues, data processing (such as removing commas and dollar signs), and the plotting of stock price trends.
